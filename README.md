@@ -11,7 +11,7 @@ alt=“Subject Pronouns”
 style=“margin-right: 10px;”
 />
 </html>
-![Test Image](https://github.com/harshadlokare/image-processing/blob/master/Damaged-Image.png?raw=true)
+[Test Image](https://github.com/harshadlokare/image-processing/blob/master/Damaged-Image.png)
 
-![Image Mask](https://github.com/harshadlokare/image-processing/blob/master/Mask.png)
+[Image Mask](https://github.com/harshadlokare/image-processing/blob/master/Mask.png)
 
